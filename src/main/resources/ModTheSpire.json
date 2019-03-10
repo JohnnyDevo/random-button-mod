@@ -1,0 +1,10 @@
+{
+  "modid": "RandomCharacterButton",
+  "name": "Random Character Button",
+  "author_list": ["Johnny Devo"],
+  "description": "Adds a \"Random Character\" button to the character select screen.",
+  "dependencies": ["basemod"],
+  "version": "${project.version}",
+  "sts_version": "${SlayTheSpire.version}",
+  "mts_version": "${ModTheSpire.version}"
+}
